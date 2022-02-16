@@ -1,0 +1,16 @@
+PODS:
+  - ALBusSeatView (0.2.5)
+
+DEPENDENCIES:
+  - ALBusSeatView
+
+SPEC REPOS:
+  trunk:
+    - ALBusSeatView
+
+SPEC CHECKSUMS:
+  ALBusSeatView: 5416cf8e3d0d8d993da5f726f92cbb425463efd2
+
+PODFILE CHECKSUM: 5846678ccc5a695d09969070fb2846b04a4afd52
+
+COCOAPODS: 1.11.2
